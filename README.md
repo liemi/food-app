@@ -29,6 +29,7 @@
 <p align="center">
   <a href="#about">About</a> &#xa0; | &#xa0;
   <a href="#features">Features</a> &#xa0; | &#xa0;
+  <a href="#screenshot">Screenshot</a> &#xa0; | &#xa0;
   <a href="#requirements">Requirements</a> &#xa0; | &#xa0;
 </p>
 
@@ -49,6 +50,10 @@ A recipe can be found for each dish.
 - Wen: Chili
 - Thu: Tomato
 - Fri: Avocado
+
+## Screenshot
+
+<img src="./screenshots/app.jpg" height="400px">
 
 ## Requirements
 
