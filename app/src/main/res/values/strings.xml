@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food For The Week</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wensday">Wen</string>
+    <string name="thursday">Thu</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+    <string name="friday">Fri</string>
+    <string name="loading">Loading...</string>
+    <string name="image_desc">Food image</string>
+    <string name="save_edit_btn">Save</string>
+    <string name="mon_e.g.">e.g. carrot</string>
+    <string name="tue_e.g.">e.g. bacon</string>
+    <string name="wen_e.g.">e.g. rice</string>
+    <string name="thu_e.g.">e.g. avocado</string>
+    <string name="fri_e.g.">e.g. tomato</string>
+</resources>

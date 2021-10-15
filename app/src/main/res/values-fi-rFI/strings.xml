@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viikon ruuat</string>
+    <string name="monday">Ma</string>
+    <string name="tuesday">Ti</string>
+    <string name="wensday">Ke</string>
+    <string name="thursday">To</string>
+    <string name="saturday">La</string>
+    <string name="sunday">Su</string>
+    <string name="friday">Pe</string>
+    <string name="loading">Lataa...</string>
+    <string name="image_desc">Ruoka kuva</string>
+    <string name="save_edit_btn">Tallenna</string>
+    <string name="mon_e.g.">esim. carrot</string>
+    <string name="tue_e.g.">esim. bacon</string>
+    <string name="wen_e.g.">esim. rice</string>
+    <string name="thu_e.g.">esim. avocado</string>
+    <string name="fri_e.g.">esim. tomato</string>
+</resources>
