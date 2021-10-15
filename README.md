@@ -37,7 +37,8 @@
 
 ## About
 
-This android app get data from <a href="https://www.edamam.com/">edamam</a> API
+This android app get data from <a href="https://www.edamam.com/">edamam</a> API<br>
+Requests are limit to 10/min
 
 ## Features
 
